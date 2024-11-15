@@ -2,7 +2,7 @@
 import styled from 'styled-components';
 
 import { articleMixins } from '@/styles/articleMixins';
-
+Sounds good!
 const TermsOfUsePage = () => (
   <$Article>
     <header>
